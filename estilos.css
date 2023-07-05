@@ -369,7 +369,7 @@ header {
   
 .contenedorHeaderImagen img {
    width: 100%;
-    height: auto;
+    height: 700px;
 }
   
 .contenedorHeaderImagen h1 {
@@ -498,4 +498,28 @@ header {
     width: 100%;
     height: 580px;
     object-fit: cover;
+}
+
+
+.imgDatos{
+
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.textoJustificado {
+    text-align: justify;
+}
+
+.contenedorCards img{
+    border-radius: 7px;
+}
+  
+section h3{
+    font-weight: 600;
+}
+
+.sectionMargin img{
+    border-radius: 8px;
 }
